@@ -1,5 +1,5 @@
 # gateway
-[![Build Status](https://drone.io/github.com/api-gateway/gateway/status.png)](https://drone.io/github.com/api-gateway/gateway/latest)
+[![Build Status](https://drone.io/github.com/api-gateway/gateway/status.png)](https://drone.io/github.com/api-gateway/gateway/latest) [![bitHound Score](https://www.bithound.io/github/api-gateway/gateway/badges/score.svg)](https://www.bithound.io/github/api-gateway/gateway)
 
 An api gateway, acts as oauth2 authorization server, api throttling, api proxy.
 
